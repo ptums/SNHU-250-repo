@@ -1,1 +1,3 @@
-# SNHU-250-repo
+# SNHU 250
+
+Hi Professor Iles 👋
